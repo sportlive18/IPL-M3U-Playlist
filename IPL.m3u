@@ -1,4 +1,5 @@
 #EXTM3U
+#Credit:Sayan10
 
 #EXTINF:-1 tvg-name="Hotstar Hindi" group-title="IPL 4K | Sayan10",🔗 Hotstar (Hindi)
 http://premimum.online/live/jen12345/jen54321/705131.ts
@@ -33,8 +34,11 @@ http://premimum.online/live/jen12345/jen54321/705140.ts
 #EXTINF:-1 tvg-name="Noon English" group-title="IPL 4K | Sayan10",🔗 Noon (English)
 https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 
-#EXTINF:-1 tvg-name="Star Sports 1 English" group-title="IPL 4K | Sayan10",🔗 Star Sports 1 (English)
-https://livetv.hotstar.com/mp1/gec-india-1540065782/fce958099ca84fc3b980e651a4a668a8/index.mpd?|cookie=hdntl=exp=1778587245~acl=%2f*~id=4c8c02fda18ea4b60499488d7f8299bd~data=hdntl~hmac=1fa4a90dd985945eb8b75908ec3e1e99c7ea765ca5395b48bdce7739fe07c88f&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=b7cdde012ce04e90a08b90622e020000:13603245acab444faef6cab5198de55f
+#EXTINF:-1 tvg-name="Star Sports 4K" group-title="IPL 4K | Sayan10",🔗 Star Sports 4K
+http://datahub11.com:80/live/johannes/johannes123/703299.ts
 
-#EXTINF:-1 tvg-name="Star Sports 1 Hindi" group-title="IPL 4K | Sayan10",🔗 Star Sports 1 (Hindi)
-https://livetv.hotstar.com/mp1/gec-india-1540065788/fa6a4f0005ef4f90ab24484d165b0aaf/index.mpd?|cookie=hdntl=exp=1778587242~acl=%2f*~id=77bf9ff4b8c3ea9ac67743f08e7dd23e~data=hdntl~hmac=b15443566aacdbf80c8fc1352891368929a518e2e57ebf70d92a35434e9a9eb7&User-agent=Hotstar%3Bin.startv.hotstar%2F25.02.24.8.11169+%28Android%2F15%29&drmScheme=clearkey&drmLicense=81872faa1d6b45fa9045cdeb2e310000:9b88168e61274587a471962c46b94675
+#EXTINF:-1 tvg-name="Star Sports 1 English" group-title="IPL 4K | Sayan10",🔗 Star Sports 1 (English)
+http://datahub11.com:80/live/johannes/johannes123/702533.ts
+
+#EXTINF:-1 tvg-name="Star Sports 2 English" group-title="IPL 4K | Sayan10",🔗 Star Sports 2 (English)
+http://datahub11.com:80/live/johannes/johannes123/702543.ts
