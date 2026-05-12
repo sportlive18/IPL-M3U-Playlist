@@ -1,44 +1,136 @@
 #EXTM3U
 #Credit:Sayan10
-
 #EXTINF:-1 tvg-name="Hotstar Hindi" group-title="IPL 4K | Sayan10",🔗 Hotstar (Hindi)
 http://premimum.online/live/jen12345/jen54321/705131.ts
-
 #EXTINF:-1 tvg-name="Hotstar English" group-title="IPL 4K | Sayan10",🔗 Hotstar (English)
 http://premimum.online/live/jen12345/jen54321/705132.ts
-
 #EXTINF:-1 tvg-name="Hotstar 3" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705133.ts
-
 #EXTINF:-1 tvg-name="Hotstar 4" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705134.ts
-
 #EXTINF:-1 tvg-name="Hotstar 5" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705135.ts
-
 #EXTINF:-1 tvg-name="Hotstar 6" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705136.ts
-
 #EXTINF:-1 tvg-name="Hotstar 7" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705137.ts
-
 #EXTINF:-1 tvg-name="Hotstar 8" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705138.ts
-
 #EXTINF:-1 tvg-name="Hotstar 9" group-title="IPL 4K | Sayan10",🔗 Hotstar
 http://premimum.online/live/jen12345/jen54321/705139.ts
-
 #EXTINF:-1 tvg-name="Hotstar Bengali" group-title="IPL 4K | Sayan10",🔗 Hotstar (Bengali)
 http://premimum.online/live/jen12345/jen54321/705140.ts
-
 #EXTINF:-1 tvg-name="Noon English" group-title="IPL 4K | Sayan10",🔗 Noon (English)
 https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
-
 #EXTINF:-1 tvg-name="Star Sports 4K" group-title="IPL 4K | Sayan10",🔗 Star Sports 4K
 http://datahub11.com:80/live/johannes/johannes123/703299.ts
-
 #EXTINF:-1 tvg-name="Star Sports 1 English" group-title="IPL 4K | Sayan10",🔗 Star Sports 1 (English)
 http://datahub11.com:80/live/johannes/johannes123/702533.ts
-
 #EXTINF:-1 tvg-name="Star Sports 2 English" group-title="IPL 4K | Sayan10",🔗 Star Sports 2 (English)
 http://datahub11.com:80/live/johannes/johannes123/702543.ts
+#EXTINF:-1 tvg-id="98867" tvg-name="IN: STAR SPORTS SELECT 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: STAR SPORTS SELECT 1 (4K).
+http://buxjam.com:80/live/458056041/487698466/98867.ts
+#EXTINF:-1 tvg-id="98868" tvg-name="IN: START SPORTS SELECT 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: START SPORTS SELECT 2 (4K).
+http://buxjam.com:80/live/458056041/487698466/98868.ts
+#EXTINF:-1 tvg-id="98861" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: TEN 1 (4K).
+http://buxjam.com:80/live/458056041/487698466/98861.ts
+#EXTINF:-1 tvg-id="98862" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: TEN 2 (4K).
+http://buxjam.com:80/live/458056041/487698466/98862.ts
+#EXTINF:-1 tvg-id="98863" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: TEN 3 (4K).
+http://buxjam.com:80/live/458056041/487698466/98863.ts
+#EXTINF:-1 tvg-id="98870" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",IN: SONY TEN 5 (4K).
+http://buxjam.com:80/live/458056041/487698466/98870.ts
+#EXTINF:-1 tvg-id="1856" tvg-name="CRIC || FOX CRIC 501 ᴴᴰ" tvg-logo="http://greenpa1.com/fox.png" group-title="IPL 4K | Sayan10",CRIC || FOX CRIC 501 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/1856.ts
+#EXTINF:-1 tvg-id="158442" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="IPL 4K | Sayan10",CRIC || SUPERSPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/158442.ts
+#EXTINF:-1 tvg-id="2496" tvg-name="CRIC || SUPERSPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ssc.png" group-title="IPL 4K | Sayan10",CRIC || SUPERSPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/2496.ts
+#EXTINF:-1 tvg-id="12" tvg-name="CRIC || SKY SPORTS CRIC ᴴᴰ" tvg-logo="http://greenpa1.com/skycricket.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORTS CRIC ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/12.ts
+#EXTINF:-1 tvg-id="23566" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORTS CRIC ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/23566.ts
+#EXTINF:-1 tvg-id="114479" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORTS CRIC ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/114479.ts
+#EXTINF:-1 tvg-id="124269" tvg-name="CRIC || SKY SPORTS CRIC ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORTS CRIC ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/124269.ts
+#EXTINF:-1 tvg-id="2494" tvg-name="CRIC || ASTRO CRICKET ᴴᴰ" tvg-logo="http://greenpa1.com/astrocricket.png" group-title="IPL 4K | Sayan10",CRIC || ASTRO CRICKET ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/2494.ts
+#EXTINF:-1 tvg-id="215" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="IPL 4K | Sayan10",CRIC || WILLOW SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/215.ts
+#EXTINF:-1 tvg-id="23943" tvg-name="CRIC || WILLOW SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/willow.png" group-title="IPL 4K | Sayan10",CRIC || WILLOW SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/23943.ts
+#EXTINF:-1 tvg-id="5040" tvg-name="CRIC || WILLOW 2 ᴴᴰ" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="IPL 4K | Sayan10",CRIC || WILLOW 2 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/5040.ts
+#EXTINF:-1 tvg-id="23564" tvg-name="TNT SPORT 1" tvg-logo="http://starapk1.com/logo/rugby.png" group-title="IPL 4K | Sayan10",TNT SPORT 1
+http://buxjam.com:80/live/458056041/487698466/23564.ts
+#EXTINF:-1 tvg-id="23565" tvg-name="TNT SPORT 2." tvg-logo="http://starapk1.com/logo/rugby.png" group-title="IPL 4K | Sayan10",TNT SPORT 2.
+http://buxjam.com:80/live/458056041/487698466/23565.ts
+#EXTINF:-1 tvg-id="148090" tvg-name="CRIC || TNT SPORTS 3 ᶠᴴᴰ" tvg-logo="http://greenpa1.com/tntsports.png" group-title="IPL 4K | Sayan10",CRIC || TNT SPORTS 3 ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/148090.ts
+#EXTINF:-1 tvg-id="89" tvg-name="CRIC || PTV SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="IPL 4K | Sayan10",CRIC || PTV SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/89.ts
+#EXTINF:-1 tvg-id="61674" tvg-name="CRIC || PTV SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || PTV SPORTS ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/61674.ts
+#EXTINF:-1 tvg-id="43444" tvg-name="CRIC || A SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="IPL 4K | Sayan10",CRIC || A SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/43444.ts
+#EXTINF:-1 tvg-id="43447" tvg-name="CRIC || A SPORTS ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || A SPORTS ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/43447.ts
+#EXTINF:-1 tvg-id="101" tvg-name="CRIC || GEO SUPER ᴴᴰ" tvg-logo="http://greenpa1.com/geosuper.png" group-title="IPL 4K | Sayan10",CRIC || GEO SUPER ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/101.ts
+#EXTINF:-1 tvg-id="98" tvg-name="CRIC || TEN SPORTS ᴴᴰ" tvg-logo="https://www.tensports.com.pk/wp-content/uploads/2019/10/Logo.png" group-title="IPL 4K | Sayan10",CRIC || TEN SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/98.ts
+#EXTINF:-1 tvg-id="148" tvg-name="CRIC || STAR SPORTS 1 ENG ᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 ENG ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/148.ts
+#EXTINF:-1 tvg-id="9397" tvg-name="CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ" tvg-logo="http://greenpa1.com/starsports1.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 ENG ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/9397.ts
+#EXTINF:-1 tvg-id="124281" tvg-name="CRIC || STAR SPORTS 1 ENG ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 ENG ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/124281.ts
+#EXTINF:-1 tvg-id="239" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/239.ts
+#EXTINF:-1 tvg-id="9398" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ" tvg-logo="http://greenpa1.com/starsports2.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 2 ENGLISH ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/9398.ts
+#EXTINF:-1 tvg-id="124284" tvg-name="CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 2 ENGLISH ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/124284.ts
+#EXTINF:-1 tvg-id="211" tvg-name="CRIC || STAR SPORTS 1 HINDI ᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 HINDI ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/211.ts
+#EXTINF:-1 tvg-id="9399" tvg-name="CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ" tvg-logo="http://greenpa1.com/ssh1.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 HINDI ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/9399.ts
+#EXTINF:-1 tvg-id="124287" tvg-name="CRIC || STAR SPORTS 1 HINDI ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 HINDI ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/124287.ts
+#EXTINF:-1 tvg-id="238" tvg-name="CRIC || STAR SPORTS SELECT 1 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS SELECT 1 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/238.ts
+#EXTINF:-1 tvg-id="148801" tvg-name="CRIC || STAR SPORTS SELECT 2 ᴴᴰ" tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS SELECT 2 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/148801.ts
+#EXTINF:-1 tvg-id="9722" tvg-name="CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/9722.ts
+#EXTINF:-1 tvg-id="177843" tvg-name="CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 1 TELUGU ⁴ᵏ
+http://buxjam.com:80/live/458056041/487698466/177843.ts
+#EXTINF:-1 tvg-id="1080" tvg-name="CRIC || STAR SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/ss3.png" group-title="IPL 4K | Sayan10",CRIC || STAR SPORTS 3 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/1080.ts
+#EXTINF:-1 tvg-id="18452" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="IPL 4K | Sayan10",CRIC || T SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/18452.ts
+#EXTINF:-1 tvg-id="130714" tvg-name="CRIC || T SPORTS ᴴᴰ" tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="IPL 4K | Sayan10",CRIC || T SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/130714.ts
+#EXTINF:-1 tvg-id="1039" tvg-name="CRIC || RTA SPORTS ᴴᴰ" tvg-logo="http://greenpa1.com/rta.png" group-title="IPL 4K | Sayan10",CRIC || RTA SPORTS ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/1039.ts
+#EXTINF:-1 tvg-id="154" tvg-name="CRIC || SONY SPORTS 1 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="IPL 4K | Sayan10",CRIC || SONY SPORTS 1 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/154.ts
+#EXTINF:-1 tvg-id="192" tvg-name="SONY Ten 2 HD" tvg-logo="http://starapk1.com/logo/football.png" group-title="IPL 4K | Sayan10",SONY Ten 2 HD
+http://buxjam.com:80/live/458056041/487698466/192.ts
+#EXTINF:-1 tvg-id="31314" tvg-name="CRIC || SONY SPORTS 2 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten2.png" group-title="IPL 4K | Sayan10",CRIC || SONY SPORTS 2 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/31314.ts
+#EXTINF:-1 tvg-id="146" tvg-name="CRIC || SONY SPORTS 3 ᴴᴰ" tvg-logo="http://greenpa1.com/sonyten3.png" group-title="IPL 4K | Sayan10",CRIC || SONY SPORTS 3 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/146.ts
+#EXTINF:-1 tvg-id="29469" tvg-name="CRIC || SONY SPORTS 4 TAMIL" tvg-logo="http://greenpa1.com/sonyten4.png" group-title="IPL 4K | Sayan10",CRIC || SONY SPORTS 4 TAMIL
+http://buxjam.com:80/live/458056041/487698466/29469.ts
+#EXTINF:-1 tvg-id="176" tvg-name="CRIC || SONY SPORTS 5 ᴴᴰ" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="IPL 4K | Sayan10",CRIC || SONY SPORTS 5 ᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/176.ts
+#EXTINF:-1 tvg-id="155" tvg-name="CRI: SONY ESPN HD" tvg-logo="https://pluspng.com/img-png/sony-hd-png-http-www-indigital-co-in-upload-channellogo-channellogo-635901932420648964-png-sony-espn-hd-300.png" group-title="IPL 4K | Sayan10",CRI: SONY ESPN HD
+http://buxjam.com:80/live/458056041/487698466/155.ts
+#EXTINF:-1 tvg-id="150854" tvg-name="CRIC || SKY SPORT 1 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORT 1 ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/150854.ts
+#EXTINF:-1 tvg-id="24018" tvg-name="CRIC || SKY SPORT 3 ᶠᴴᴰ" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="IPL 4K | Sayan10",CRIC || SKY SPORT 3 ᶠᴴᴰ
+http://buxjam.com:80/live/458056041/487698466/24018.ts
+#EXTINF:-1 tvg-id="85829" tvg-name="CRI: ATN Plus Cricket" tvg-logo="https://i.ibb.co/PtxbFbk/Cricket-Plus-tr.png" group-title="IPL 4K | Sayan10",CRI: ATN Plus Cricket
+http://buxjam.com:80/live/458056041/487698466/85829.ts
