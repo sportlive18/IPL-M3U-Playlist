@@ -36,3 +36,119 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",TELEMUNDO HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 tvg-id="fifa2" tvg-logo="https://lazycdn.vercel.app/images/thumbnail.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Super Sports
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/741566/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa1" tvg-logo="https://lazycdn.vercel.app/images/thumbnail.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Fussball TV 1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa11" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", SUPER SPORTS FIFA
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/741566/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa12" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/741567/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa13" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", DE | Fusball TV 1 World Cup 2026 [HD]
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa14" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", DE | Fusball TV 2 World Cup 2026 [HD] 
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/742611/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa15" tvg-logo="https://i.ibb.co/M5WCX8XS/MAX-SPORTS-1-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744517/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa16" tvg-logo="https://i.ibb.co/jkJXrgfz/MAX-SPORTS-2-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744518/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa17" tvg-logo="https://i.ibb.co/Y727k2cZ/MAX-SPORTS-3-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 3 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744519/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa18" tvg-logo="https://i.ibb.co/nqJGGmCK/MAX-SPORTS-4-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 4 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744520/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa19" tvg-logo="https://i.ibb.co/0V8rVK3s/MAX-SPORTS-5-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 5 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744521/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa20" tvg-logo="https://i.ibb.co/n84Yg4Hp/MAX-SPORTS-6-HD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 6 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744522/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa21" tvg-logo="https://i.ibb.co/YB6ZyftG/MAX-SPORTS-1-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 1 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744523/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa22" tvg-logo="https://i.ibb.co/rRNLQq24/MAX-SPORTS-2-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 2 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744524/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa23" tvg-logo="https://i.ibb.co/S74Cr4Qp/MAX-SPORTS-3-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 3 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744525/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa24" tvg-logo="https://i.ibb.co/4nF75VxL/MAX-SPORTS-4-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 4 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744526/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa25" tvg-logo="https://i.ibb.co/Y7vntPyV/MAX-SPORTS-5-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 5 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744527/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa26" tvg-logo="https://i.ibb.co/Mkg6zW45/MAX-SPORTS-6-FHD.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 6 FHD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744528/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa27" tvg-logo="https://i.ibb.co/gFwwwdf7/MAX-SPORTS-1-4-K.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 1 4K
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744529/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa28" tvg-logo="https://i.ibb.co/0yRnNDvs/MAX-SPORTS-2-4-K.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 2 4K
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744530/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa29" tvg-logo="https://i.ibb.co/VW52CPRF/MAX-SPORTS-3-4-K.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 3 4K
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744531/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa30" tvg-logo="https://i.ibb.co/M5gntknw/MAX-SPORTS-4-4-K.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 4 4K
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744532/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa31" tvg-logo="https://i.ibb.co/8g63MbJn/MAX-SPORTS-5-4-K.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", BEIN SPORTS MAX 5 4K
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/744533/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa32" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", SS World Cup Central
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745149/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa33" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", SS World Cup Pass
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745195/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa34" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", Unite8 Sports 2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745202/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa35" tvg-logo="https://i.ibb.co/GfMp5MTJ/Chat-GPT-Image-Jun-5-2026-07-28-11-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", SS World Cup Extra
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745211/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa36" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", (DE) Fussball.TV1 (UHD/4K)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745269/lmND4qC9ustQ/live.m3u8
+
+#EXTINF:-1 tvg-id="fifa37" tvg-logo="https://i.ibb.co/fzbsY6CP/Chat-GPT-Image-Jun-11-2026-11-41-22-PM.png" group-logo="https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781082033/fifa_cqeyqc.png" group-title="FIFA 2026", (HK) Now Sports 616 (UHD/4K)
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://xtream.lazyspace.online/uplink/play/745270/lmND4qC9ustQ/live.m3u8
+
